@@ -1,0 +1,8 @@
+my_table VALUES,(1
+my_table VALUES,'Hello')
+my_table VALUES,(2
+my_table VALUES,'World'
+my_table VALUES,(1
+my_table VALUES,'Mihir')
+my_table VALUES,(2
+my_table VALUES,'Wankhade'
